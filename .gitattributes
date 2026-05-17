@@ -1,0 +1,7 @@
+# Mark machine-generated artifacts so GitHub Linguist excludes them
+# from the language statistics. These files are reproducible from the
+# pipeline (make figures, make export) and are not hand-written source.
+
+figures/interactive/*.html linguist-generated=true
+data/processed/*.csv       linguist-generated=true
+data/processed/schema.sql  linguist-generated=true

@@ -1,0 +1,4 @@
+county_name,county_fips,year,live_births,infant_deaths,imr_per_1000,notes
+Mississippi - Black race,28000,2024,12829,195,15.2,MSDH 2025 IMR Report Table 2 (Black non-Hispanic)
+Mississippi - White race,28000,2024,17241,100,5.8,MSDH 2025 IMR Report Table 2 (White non-Hispanic)
+Mississippi - Hispanic,28000,2024,2381,15,6.3,MSDH 2025 IMR Report Table 2 (Hispanic ethnicity)

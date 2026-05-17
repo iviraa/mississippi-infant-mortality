@@ -1,0 +1,68 @@
+measure_sk,source,measure_id,measure_name,short_name,category,unit,higher_is_worse
+1,SVI,RPL_THEMES,SVI Overall Vulnerability Percentile,Overall SVI,Theme Summary,percentile,True
+2,SVI,RPL_THEME1,SVI Theme 1: Socioeconomic,SES SVI,Theme 1,percentile,True
+3,SVI,RPL_THEME2,SVI Theme 2: Household,Household SVI,Theme 2,percentile,True
+4,SVI,RPL_THEME3,SVI Theme 3: Minority,Minority SVI,Theme 3,percentile,True
+5,SVI,RPL_THEME4,SVI Theme 4: Housing/Transport,Housing SVI,Theme 4,percentile,True
+6,SVI,EP_POV150,Below 150% poverty (%),Pov<150%,Theme 1,percent,True
+7,SVI,EP_UNEMP,Unemployed (%),Unemployed,Theme 1,percent,True
+8,SVI,EP_NOHSDP,No HS diploma 25+ (%),No HS diploma,Theme 1,percent,True
+9,SVI,EP_UNINSUR,Uninsured (%),Uninsured,Theme 1,percent,True
+10,SVI,EP_DISABL,Disabled (%),Disabled,Theme 2,percent,True
+11,SVI,EP_SNGPNT,Single-parent households (%),Single parent,Theme 2,percent,True
+12,SVI,EP_MINRTY,Racial/ethnic minority (%),Minority,Theme 3,percent,
+13,SVI,EP_NOVEH,Households with no vehicle (%),No vehicle,Theme 4,percent,True
+14,SVI,EP_MOBILE,Mobile homes (%),Mobile home,Theme 4,percent,True
+15,SVI,EP_NOINT,No internet subscription (%),No internet,Theme 4,percent,True
+16,PLACES,HEARING,Hearing disability among adults aged >=18 years,Hearing Disability,Disability,percent,True
+17,PLACES,MOBILITY,Mobility disability among adults aged >=18 years,Mobility Disability,Disability,percent,True
+18,PLACES,STROKE,Stroke among adults aged >=18 years,Stroke,Health Outcomes,percent,True
+19,PLACES,ARTHRITIS,Arthritis among adults aged >=18 years,Arthritis,Health Outcomes,percent,True
+20,PLACES,OBESITY,Obesity among adults aged >=18 years,Obesity,Health Outcomes,percent,True
+21,PLACES,DISABILITY,Any disability among adults aged >=18 years,Any Disability,Disability,percent,True
+22,PLACES,MAMMOUSE,Mammography use among women aged 50-74 years,Mammography,Prevention,percent,False
+23,PLACES,DEPRESSION,Depression among adults aged >=18 years,Depression,Health Outcomes,percent,True
+24,PLACES,VISION,Vision disability among adults aged >=18 years,Vision Disability,Disability,percent,True
+25,PLACES,CASTHMA,Current asthma among adults aged >=18 years,Current Asthma,Health Outcomes,percent,True
+26,PLACES,BPHIGH,High blood pressure among adults aged >=18 years,High Blood Pressure,Health Outcomes,percent,True
+27,PLACES,TEETHLOST,All teeth lost among adults aged >=65 years,All Teeth Lost,Health Outcomes,percent,True
+28,PLACES,DIABETES,Diagnosed diabetes among adults aged >=18 years,Diabetes,Health Outcomes,percent,True
+29,PLACES,CHD,Coronary heart disease among adults aged >=18 years,Coronary Heart Disease,Health Outcomes,percent,True
+30,PLACES,DENTAL,Visits to dentist or dental clinic among adults aged >=18 years,Dental Visit,Prevention,percent,False
+31,PLACES,HIGHCHOL,High cholesterol among adults aged >=18 years who have been screened in the past 5 years,High Cholesterol,Health Outcomes,percent,True
+32,PLACES,CHOLSCREEN,Cholesterol screening among adults aged >=18 years,Cholesterol Screening,Prevention,percent,False
+33,PLACES,LPA,No leisure-time physical activity among adults aged >=18 years,Physical Inactivity,Health Risk Behaviors,percent,True
+34,PLACES,COLON_SCREEN,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",Colorectal Cancer Screening,Prevention,percent,False
+35,PLACES,COREM,"Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening",Core preventive services for older men,Prevention,percent,False
+36,PLACES,CERVICAL,Cervical cancer screening among adult women aged 21-65 years,Cervical Cancer Screening,Prevention,percent,False
+37,PLACES,KIDNEY,Chronic kidney disease among adults aged >=18 years,Chronic Kidney Disease,Health Outcomes,percent,True
+38,PLACES,GHLTH,Fair or poor self-rated health status among adults aged >=18 years,General Health,Health Status,percent,True
+39,PLACES,COPD,Chronic obstructive pulmonary disease among adults aged >=18 years,COPD,Health Outcomes,percent,True
+40,PLACES,PHLTH,Physical health not good for >=14 days among adults aged >=18 years,Physical Health,Health Status,percent,True
+41,PLACES,BPMED,Taking medicine for high blood pressure control among adults aged >=18 years with high blood pressure,Taking BP Medication,Prevention,percent,False
+42,PLACES,BINGE,Binge drinking among adults aged >=18 years,Binge Drinking,Health Risk Behaviors,percent,True
+43,PLACES,SLEEP,Sleeping less than 7 hours among adults aged >=18 years,Sleep <7 hours,Health Risk Behaviors,percent,True
+44,PLACES,CANCER,Cancer (excluding skin cancer) among adults aged >=18 years,Cancer (except skin),Health Outcomes,percent,True
+45,PLACES,CHECKUP,Visits to doctor for routine checkup within the past year among adults aged >=18 years,Annual Checkup,Prevention,percent,False
+46,PLACES,COREW,"Older adult women aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening, and Mammogram past 2 years",Core preventive services for older women,Prevention,percent,False
+47,PLACES,MHLTH,Mental health not good for >=14 days among adults aged >=18 years,Mental Health,Health Status,percent,True
+48,PLACES,SELFCARE,Self-care disability among adults aged >=18 years,Self-care Disability,Disability,percent,True
+49,PLACES,INDEPLIVE,Independent living disability among adults aged >=18 years,Independent Living Disability,Disability,percent,True
+50,PLACES,CSMOKING,Current smoking among adults aged >=18 years,Current Smoking,Health Risk Behaviors,percent,True
+51,PLACES,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Health Insurance,Prevention,percent,False
+52,PLACES,COGNITION,Cognitive disability among adults ages >=18 years,Cognitive Disability,Disability,percent,True
+53,PLACES,FOODSTAMP,Received food stamps in the past 12 months among adults,Food Stamps,Health-Related Social Needs,percent,True
+54,PLACES,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Utility Services Threat,Health-Related Social Needs,percent,True
+55,PLACES,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Transportation Barriers,Health-Related Social Needs,percent,True
+56,PLACES,HOUSINSECU,Housing insecurity in the past 12 months among adults,Housing Insecurity,Health-Related Social Needs,percent,True
+57,PLACES,FOODINSECU,Food insecurity in the past 12 months among adults,Food Insecurity,Health-Related Social Needs,percent,True
+58,PLACES,EMOTIONSPT,Lack of social and emotional support among adults,Lack of Social/Emotional Support,Health-Related Social Needs,percent,True
+59,PLACES,LONELINESS,Loneliness among adults,Loneliness,Health-Related Social Needs,percent,True
+60,ACS,B19013_001E,Median Household Income,Median income,Income,dollars,False
+61,ACS,S2701_C04_001E,Uninsured rate (%),Uninsured,Insurance,percent,True
+62,ACS,S1701_C03_001E,Below poverty (%),Below poverty,Poverty,percent,True
+63,ACS,B02001_002E,White alone population,White pop,Race,count,
+64,ACS,B02001_003E,Black/African American population,Black pop,Race,count,
+65,ACS,B03002_012E,Hispanic/Latino population,Hispanic pop,Ethnicity,count,
+66,ACS,B15003_022E,Bachelors degree (25+),Bachelors,Education,count,False
+67,ACS,B28002_013E,No internet subscription (count),No internet,Connectivity,count,True

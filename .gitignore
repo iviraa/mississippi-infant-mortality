@@ -39,4 +39,5 @@ build/
 
 # Submission-only files (not part of the public repo)
 *.pptx
+SPEAKER_NOTES.md
 .claude/
